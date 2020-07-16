@@ -1,0 +1,25 @@
+h1{
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	padding: 6px 1em;
+	background: black;
+	margin-left: 0%;
+
+	margin-right: 60%;
+	font-weight: bold;
+
+}
+h2{
+	border-radius: 5px;
+	text-decoration: none;
+	color: black;
+	padding: 1px 1em;
+	background: white;
+	margin-left: 0%;
+	margin-right: 60%;
+}
+select {
+	color: white;
+	background: black;
+}
